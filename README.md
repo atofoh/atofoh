@@ -6,7 +6,7 @@
 
 - ![](https://komarev.com/ghpvc/?username=atofoh&style=grey)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atofoh&theme=grey&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atofoh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **atofoh/atofoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
