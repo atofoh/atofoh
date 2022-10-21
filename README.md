@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I'm a Computer Engineering student at the Kwame Nkrumah University of Science and a GitHub Global Campus Member.
+- 🔭 I'm a Comp Engineering student at the Kwame Nkrumah University of Science.
 - 🌱 I’m currently learning Python.
 - Pronouns: He/Him 
 
 - ![](https://komarev.com/ghpvc/?username=dodziraynard&style=blueviolet)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atofoh&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atofoh&theme=white&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **atofoh/atofoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
